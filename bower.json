@@ -1,0 +1,19 @@
+{
+	"name": "applink",
+	"version": "0.1.0",
+	"homepage": "http://github.com/MathieuLoutre/applink/",
+	"authors": [
+		"Mathieu Triay <mathieu.triay@gmail.com>"
+	],
+	"description": "Open apps with a URI Scheme from a webpage",
+	"main": ["index.js"],
+	"keywords": [
+		"app",
+		"native",
+		"uri",
+		"url",
+		"share",
+		"scheme"
+	],
+	"license": "MIT"
+}
